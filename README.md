@@ -16,6 +16,8 @@
 - Active Directory Home Lab (https://github.com)
 <h3>AWS Training</h3>
 - Active Directory Home Lab (https://github.com)
+<h3>LinkedIn Learning</h3>
+- Active Directory Home Lab (https://github.com)
 
 <h2>Certifications</h2>
 
