@@ -1,16 +1,44 @@
-### Hi there 👋
+<h1>Hi, I'm Robert! <br/><a href="https://www.linkedin.com/in/robert-spivey-2688388/"></a></br></h1>
 
-<!--
-**RobertSpivey81/RobertSpivey81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects - Completed </h2>
+<h3>TryHackMe</h3>
+- Active Directory Home Lab (https://github.com) <b><i>(Potentially NSFW)</b></i>
 
-Here are some ideas to get you started:
+<h3>Coursera</h3>
+- [Hello World!] (https://github.com) <b><i>(Potentially NSFW)</b></i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🔭 Cybersecurity Projects - In Progress </h2>
+
+<h2> 🌱 Cybersecurity Learning </h2>
+<h3>TryHackMe</h3>
+- Active Directory Home Lab (https://github.com)
+<h3>Microsoft Learn</h3>
+- Active Directory Home Lab (https://github.com)
+<h3>AWS Training</h3>
+- Active Directory Home Lab (https://github.com)
+
+<h2>Certifications</h2>
+
+- [CompTIA Security+](https://www.credly.com/badges/45406869-6f0b-45e7-ab4a-4deb1380563a/public_url)
+- [Google Cybersecurity Professional](https://www.credly.com/badges/b5b98e6d-7a4e-47d0-9e21-0322a8835aac/public_url)
+- [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/d1eea30a-e995-4a53-a3e9-5ae7a9770ef4/public_url)
+- [Google IT Support Professional](https://www.credly.com/badges/18cc18cf-0d01-4936-aa74-c3a41d2c2716/public_url)
+- [Certified Lean Six Sigma Green Belt](https://www.udemy.com/certificate/UC-e38cd6e6-08ce-4585-b99d-c6446493e7f3/)
+- [SAFe® 5 Practitioner](https://www.credly.com/badges/b0eff2c7-1fad-48ec-980c-dd733fc57ecc/public_url)
+- [LambdaTest Test Automation Professional](https://www.linkedin.com/learning/certificates/78cc60f13b46cdb87a86f2bb7e0ac5301245283a1919101922346123d5214e71?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BtrLYn%2BxbT5yay%2FOvLy%2F9Ig%3D%3D)
+- [LambdaTest Software Testing Professional](https://www.linkedin.com/learning/certificates/25475ca4dbabd25b5e66ad1c6516cd4ea985f4ab897e1e5612281ee7f032f284?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BtrLYn%2BxbT5yay%2FOvLy%2F9Ig%3D%3D)
+- [ServiceNow IT Leadership Professional](https://www.linkedin.com/learning/certificates/a665468e6bbd4c565cc7751843ef595ca5ffbf2ca975d14d2581807da5d6ada9)
+- [Tableau Business Intelligence Analyst Professional](https://coursera.org/share/0e538c0acd2b38001cd2c93b56d69ff1)
+- [AWS Cloud Technology Consultant Professional](https://coursera.org/share/29fd03eb75ee36504621f37c2ad6ff39)
+
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Tutorial: Active Directory Home Lab](https://www.youtube.com)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="RobertSpivey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/robert-spivey-2688388
