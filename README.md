@@ -11,7 +11,11 @@
 
 <h2> 🌱 Cybersecurity Learning </h2>
 <h3>TryHackMe</h3>
-- Active Directory Home Lab (https://github.com)
+<h4>Learning Paths</h4>
+<h5>CompTIA Pentest+ </h5>
+- Room: Active Directory Home Lab (https://github.com)
+<h5>SOC Analyst 1</h5>
+- Room: Active Directory Home Lab (https://github.com)
 <h3>Microsoft Learn</h3>
 - Active Directory Home Lab (https://github.com)
 <h3>AWS Training</h3>
