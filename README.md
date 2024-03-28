@@ -12,7 +12,7 @@
 <h2> 🌱 Cybersecurity Learning </h2>
 <h3>TryHackMe</h3>
 <h4>Learning Paths</h4>
-- CompTIA Pentest+(https://github.com)</p>
+- CompTIA Pentest+(https://github.com/RobertSpivey81/TryHackMe-CompTIA-Pentest-)</p>
 - SOC Analyst 1(https://github.com/RobertSpivey81/SOCAnalyst1)
 
 <h3>Microsoft Learn</h3>
