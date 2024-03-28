@@ -35,6 +35,7 @@
 - [ServiceNow IT Leadership Professional](https://www.linkedin.com/learning/certificates/a665468e6bbd4c565cc7751843ef595ca5ffbf2ca975d14d2581807da5d6ada9)
 - [Tableau Business Intelligence Analyst Professional](https://coursera.org/share/0e538c0acd2b38001cd2c93b56d69ff1)
 - [AWS Cloud Technology Consultant Professional](https://coursera.org/share/29fd03eb75ee36504621f37c2ad6ff39)
+- [Oracle Cloud Infrastructure Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=76EAB6948886F9F306C78E819787151A1D1D28BBC4F72CD1F2406B9F17FA26C8)
 
 
 <h2>📺 Popular YouTube Videos</h2>
