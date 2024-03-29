@@ -3,32 +3,50 @@
 
 
 <h2> 🌱 Cybersecurity Learning </h2>
+
 <h3>TryHackMe</h3>
+
 <h4>Learning Paths</h4>
+
 - CompTIA Pentest+(https://github.com/RobertSpivey81/TryHackMe-CompTIA-Pentest-)</p>
 - SOC Analyst 1(https://github.com/RobertSpivey81/SOCAnalyst1)
 
 <h3>Microsoft Learn</h3>
+
 - Active Directory Home Lab (https://github.com)
+ 
 <h3>AWS Training</h3>
+
 - Active Directory Home Lab (https://github.com)
+
 <h3>LinkedIn Learning</h3>
+
 - Active Directory Home Lab (https://github.com)
 
 <h2>👨‍💻 Cybersecurity Projects - Completed </h2>
+
 <h3>TryHackMe</h3>
+
 - Active Directory Home Lab (https://github.com) <b><i>(Potentially NSFW)</b></i>
 
 <h3>Coursera</h3>
+
 - Hello World! (https://github.com) <b><i>(Potentially NSFW)</b></i>
 
 <h2>🔭 Cybersecurity Projects - In Progress </h2>
+
 <h3>Cybersecurity</h3>
+
 - TBD
+
 <h3>Networking</h3>
+
 - TBD
+
 <h3>Infrastructure</h3>
+
 - TBD
+
 <h2>Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/45406869-6f0b-45e7-ab4a-4deb1380563a/public_url)
