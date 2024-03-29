@@ -1,13 +1,6 @@
 <h1>Hi, I'm Robert Spivey! <br/><a href="https://www.linkedin.com/in/robert-spivey-2688388/"></a></br></h1>
 
-<h2>👨‍💻 Cybersecurity Projects - Completed </h2>
-<h3>TryHackMe</h3>
-- Active Directory Home Lab (https://github.com) <b><i>(Potentially NSFW)</b></i>
 
-<h3>Coursera</h3>
-- Hello World! (https://github.com) <b><i>(Potentially NSFW)</b></i>
-
-<h2>🔭 Cybersecurity Projects - In Progress </h2>
 
 <h2> 🌱 Cybersecurity Learning </h2>
 <h3>TryHackMe</h3>
@@ -22,6 +15,20 @@
 <h3>LinkedIn Learning</h3>
 - Active Directory Home Lab (https://github.com)
 
+<h2>👨‍💻 Cybersecurity Projects - Completed </h2>
+<h3>TryHackMe</h3>
+- Active Directory Home Lab (https://github.com) <b><i>(Potentially NSFW)</b></i>
+
+<h3>Coursera</h3>
+- Hello World! (https://github.com) <b><i>(Potentially NSFW)</b></i>
+
+<h2>🔭 Cybersecurity Projects - In Progress </h2>
+<h3>Cybersecurity</h3>
+- TBD
+<h3>Networking</h3>
+- TBD
+<h3>Infrastructure</h3>
+- TBD
 <h2>Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/45406869-6f0b-45e7-ab4a-4deb1380563a/public_url)
@@ -40,16 +47,18 @@
 <h2>Software Skills</h2>
   <h3>Management Information Systems</h3>
   
-- ERP/HCM Systems
+  <h4>ERP/HCM Systems</h4>
+  
   - Workday
     - Absence Management
-    - Benefit module
-    - Core HCM
+    - Benefits
     - Compensation
+    - Core HCM
     - Payroll
     - Performance
     - Time Tracking
-   
+
+    
   - SAP HCM/HR
     - Organizational Management
     - Personnel Administration
