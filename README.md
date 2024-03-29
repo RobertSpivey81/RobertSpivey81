@@ -97,12 +97,17 @@
   - IBM Sterling
   - Dropbox
  
-<h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="Robert Spivey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/robert-spivey-2688388)
-
-<h2> 📺 Popular YouTube Videos</h2>
+<h2>📺 Popular YouTube Videos</h2>
 
 - TBD
+ 
+<h2> 🤳 Connect with me</h2>
+
+[<img align="left" alt="RobertSpivey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/robert-spivey-2688388/
+
+
 
 
 
