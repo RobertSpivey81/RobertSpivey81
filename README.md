@@ -76,31 +76,35 @@
   - Ultipro
   - Isolved
 
-- CRM Systems
-  - ServiceNow
+<h4>CRM Systems</h4>
+
   - SALESFORCE.COM
   - SIEBEL CRM
   - Amdocs Clarify CRM 12
 
-- Business Intelligence (BI)
+<h4>Business Intelligence (BI)</h4>
+
   - Tableua
   - PowerBI
   - SAP BOBJ
 
-- Software Development/Management
+<h4>Software Development/Management</h4>
+
   - JIRA
   - Confluence
   - Rally
   - Microsoft Team Foundation Server (TFS)
   
-- Testing Software
+<h4>Testing Software</h4>
+
   - HP ALM
   - X-Ray
   - Selenium
   - Tricentis TOSCA
   - Win Shuttle
  
-- File Transfer
+<h4>File Transfer</h4>
+
   - Filezilla
   - Control-M
   - IBM Sterling
