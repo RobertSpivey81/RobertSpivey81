@@ -1,11 +1,11 @@
-<h1>Hi, I'm Robert! <br/><a href="https://www.linkedin.com/in/robert-spivey-2688388/"></a></br></h1>
+<h1>Hi, I'm Robert Spivey! <br/><a href="https://www.linkedin.com/in/robert-spivey-2688388/"></a></br></h1>
 
 <h2>👨‍💻 Cybersecurity Projects - Completed </h2>
 <h3>TryHackMe</h3>
 - Active Directory Home Lab (https://github.com) <b><i>(Potentially NSFW)</b></i>
 
 <h3>Coursera</h3>
-- [Hello World!] (https://github.com) <b><i>(Potentially NSFW)</b></i>
+- Hello World! (https://github.com) <b><i>(Potentially NSFW)</b></i>
 
 <h2>🔭 Cybersecurity Projects - In Progress </h2>
 
@@ -37,14 +37,72 @@
 - [AWS Cloud Technology Consultant Professional](https://coursera.org/share/29fd03eb75ee36504621f37c2ad6ff39)
 - [Oracle Cloud Infrastructure Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=76EAB6948886F9F306C78E819787151A1D1D28BBC4F72CD1F2406B9F17FA26C8)
 
+<h2>Software Skills</h2>
+  <h3>Management Information Systems</h3>
+  
+- ERP/HCM Systems
+  - Workday
+    - Absence Management
+    - Benefit module
+    - Core HCM
+    - Compensation
+    - Payroll
+    - Performance
+    - Time Tracking
+   
+  - SAP HCM/HR
+    - Organizational Management
+    - Personnel Administration
+    - E-Recruitment
+    - Time Management
+    - Payroll
+    - ESS and MSS
+    - Reporting
 
-<h2>📺 Popular YouTube Videos</h2>
+  - ADP Vantage
+    - Benefits
+  - Dayforce
+    - Benefits
+  - Lawson
+  - Ultipro
+  - Isolved
 
-- [Tutorial: Active Directory Home Lab](https://www.youtube.com)
+- CRM Systems
+  - ServiceNow
+  - SALESFORCE.COM
+  - SIEBEL CRM
+  - Amdocs Clarify CRM 12
 
+- Business Intelligence (BI)
+  - Tableua
+  - PowerBI
+  - SAP BOBJ
 
+- Software Development/Management
+  - JIRA
+  - Confluence
+  - Rally
+  - Microsoft Team Foundation Server (TFS)
+  
+- Testing Software
+  - HP ALM
+  - X-Ray
+  - Selenium
+  - Tricentis TOSCA
+  - Win Shuttle
+ 
+- File Transfer
+  - Filezilla
+  - Control-M
+  - IBM Sterling
+  - Dropbox
+ 
 <h2> 🤳 Connect with me:</h2>
+[<img align="left" alt="Robert Spivey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/robert-spivey-2688388)
 
-[<img align="left" alt="RobertSpivey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<h2> 📺 Popular YouTube Videos</h2>
 
-[linkedin]: https://www.linkedin.com/in/robert-spivey-2688388
+- TBD
+
+
+
