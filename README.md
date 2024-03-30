@@ -2,9 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects - Completed </h2>
 
-<h3>TryHackMe</h3>
-
-- Active Directory Home Lab (https://github.com) <b><i>(Potentially NSFW)</b></i>
+- <b> TryHackMe</b>
+ - Active Directory Home Lab (https://github.com) <b><i>(Potentially NSFW)</b></i>
 
 <h2>🔭 Cybersecurity Projects - In Progress </h2>
 
@@ -126,8 +125,3 @@
 [<img align="left" alt="RobertSpivey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/robert-spivey-2688388/
-
-
-
-
-
