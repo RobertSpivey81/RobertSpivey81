@@ -1,5 +1,5 @@
 <h1>Hi, I'm Robert Spivey! <br/>
-	<a href="https://github.com/RobertSpivey81">Cybersecurity Professional</a>, <a href="www.linkedin.com/in/robert-spivey-2688388/">IT Professional</a>
+	<a href="https://github.com/RobertSpivey81">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/robert-spivey-2688388/">IT Professional</a>
 </h1>
 <h2>👨‍💻 Software Development Projects:</h2>
 <h3> CyberSecurity projects </h3>
