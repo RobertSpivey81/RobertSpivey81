@@ -2,8 +2,6 @@
 	<a href="https://github.com/RobertSpivey81">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/robert-spivey-2688388/">IT Professional</a>
 </h1>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertSpivey81&show_icons=true)  
-
 <h2>👨‍💻 Software Development Projects:</h2>
 <h3> CyberSecurity projects </h3>
 
@@ -50,7 +48,7 @@
 - <b>Coursera </b>
   - TBD
   
-<h3>Certifications</h3>
+<h2> ⚡ Certifications:</h2>
 
   - [CompTIA Security+](https://www.credly.com/badges/45406869-6f0b-45e7-ab4a-4deb1380563a/public_url)
   - [Google Cybersecurity Professional](https://www.credly.com/badges/b5b98e6d-7a4e-47d0-9e21-0322a8835aac/public_url)
@@ -68,3 +66,5 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='32'>](https://github.com/RobertSpivey81)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'>](https://www.linkedin.com/in/https://www.linkedin.com/in/robert-spivey-2688388//)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertSpivey81&show_icons=true)  
