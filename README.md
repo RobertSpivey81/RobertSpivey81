@@ -8,27 +8,27 @@
 <h3> CyberSecurity projects </h3>
 
 - <b>Coursera </b>
-  - [TBD](https://github.com/robertspivey81)
+  - TBD
 
 <h3> Networking projects </h3>
 
 - <b>Coursera </b>
-  - [TBD](https://github.com/robertspivey81)
+  - TBD
   
 <h3> Infrastructure projects </h3>
 
 - <b>Coursera </b>
-  - [TBD](https://github.com/robertspivey81)
+  - TBD
 
 <h2>🌱 Software Learning:</h2>
 
 <h3>TryHackMe</h3>
   
 - <b>CompTIA Pentest+ (Learning Path)</b>
-  - [CompTIA Pentest+ (Learning Path)](https://github.com/RobertSpivey81/TryHackMe-CompTIA-Pentest+)
+  - TBD
 
 - <b>SOC Analyst (Learning Path)</b>
-  - [SOC Analyst 1 (Learning Path)](https://github.com/RobertSpivey81/SOCAnalyst1)
+  - TBD
 
 <h3>Microsoft Learn</h3>
 
@@ -65,9 +65,6 @@
   - [AWS Cloud Technology Consultant Professional](https://coursera.org/share/29fd03eb75ee36504621f37c2ad6ff39)
   - [Oracle Cloud Infrastructure Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=76EAB6948886F9F306C78E819787151A1D1D28BBC4F72CD1F2406B9F17FA26C8)
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Title](Link)
 <h2> 🤳 Connect with me:</h2>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='32'>](https://github.com/RobertSpivey81)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'>](https://www.linkedin.com/in/https://www.linkedin.com/in/robert-spivey-2688388//)
