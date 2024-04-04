@@ -67,4 +67,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='32'>](https://github.com/RobertSpivey81)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'>](https://www.linkedin.com/in/https://www.linkedin.com/in/robert-spivey-2688388//)
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertSpivey81&show_icons=true)  
