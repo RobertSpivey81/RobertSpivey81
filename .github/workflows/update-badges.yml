@@ -12,4 +12,4 @@ jobs:
       - name: Update Badges - Readme
         uses: RobertSpivey81/.github/workflows/update-badges@main
         with:       
-          CREDLY_USER: robert-spivey.d59e410e # optional, but default will use the same from githu
+          CREDLY_USER: robert-spivey.d59e410e # optional, but default will use the same from github
