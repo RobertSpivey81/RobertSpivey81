@@ -32,23 +32,23 @@
 
 <h3>Microsoft Learn</h3>
 
-  - <b>Microsoft Learn </b>
-     - [TBD](https://github.com/robertspivey81)
+- <b>Microsoft Learn </b>
+  - TBD
 
 <h3>AWS Training </h3>
 
 - <b>AWS Training </b>
-   - [TBD](https://github.com/robertspivey81)
+  - TBD
    
 <h3>LinkedIn Learning </h3>
 
 - <b>LinkedIn Learning </b>
-   - [TBD](https://github.com/robertspivey81) 
+  - TBD
   
 <h3>Coursera </h3>
 
 - <b>Coursera </b>
-   - [TBD](https://github.com/robertspivey81)
+  - TBD
   
 <h3>Certifications</h3>
 
