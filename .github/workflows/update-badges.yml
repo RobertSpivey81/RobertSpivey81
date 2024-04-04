@@ -1,0 +1,15 @@
+name: Update badges
+
+on:
+  schedule:
+    # Runs at 2am UTC
+    - cron: "08 12 * * *"
+jobs:
+  update-badges:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update Badges - Readme
+        uses: RobertSpivey81/.github/workflows/update-badges@main
+        with:       
+          CREDLY_USER: robert-spivey.d59e410e # optional, but default will use the same from githu
