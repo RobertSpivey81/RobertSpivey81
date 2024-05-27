@@ -28,6 +28,11 @@
 - <b>SOC Analyst (Learning Path)</b>
   - TBD
 
+<h3>Salesforce.com Trailhead </h3>
+
+- <b>Salesforce.com </b>
+  - [Badge Training Profile](https://www.salesforce.com/trailblazer/t4xico1lgwisvygeaw)
+
 <h3>Microsoft Learn</h3>
 
 - <b>Microsoft Learn </b>
@@ -62,6 +67,7 @@
   - [Tableau Business Intelligence Analyst Professional](https://coursera.org/share/0e538c0acd2b38001cd2c93b56d69ff1)
   - [AWS Cloud Technology Consultant Professional](https://coursera.org/share/29fd03eb75ee36504621f37c2ad6ff39)
   - [Oracle Cloud Infrastructure Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=76EAB6948886F9F306C78E819787151A1D1D28BBC4F72CD1F2406B9F17FA26C8)
+  - [Salesforce Trailhead](https://www.salesforce.com/trailblazer/t4xico1lgwisvygeaw)
 
 <h2> 🤳 Connect with me:</h2>
 
