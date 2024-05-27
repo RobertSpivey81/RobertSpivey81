@@ -2,6 +2,34 @@
 	<a href="https://github.com/RobertSpivey81">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/robert-spivey-2688388/">IT Professional</a>
 </h1>
 
+<h2>🌱 Software Learning:</h2>
+
+<h3>TryHackMe</h3>
+  
+- <b>TryHackMe</b>
+  - [Badge Training Profile](https://tryhackme.com/p/Robdeezy81)
+
+<h3>Salesforce.com Trailhead </h3>
+
+- <b>Salesforce.com </b>
+  - [Badge Training Profile](https://www.salesforce.com/trailblazer/t4xico1lgwisvygeaw)
+
+<h3>Microsoft Learn</h3>
+
+- <b>Microsoft Learn </b>
+  - [Badge Training Profile](https://learn.microsoft.com/en-us/users/RobertSpivey)
+
+  
+<h3>LinkedIn Learning </h3>
+
+- <b>LinkedIn Learning </b>
+  - [LinkedIn Public Profile](https://www.linkedin.com/in/robert-spivey/)
+  
+<h3>Coursera </h3>
+
+- <b>Coursera </b>
+  - [Coursera Public Profile](https://www.coursera.org/learner/robert-spivey)
+ 
 <h2>👨‍💻 Software Development Projects:</h2>
 <h3> CyberSecurity projects </h3>
 
@@ -14,41 +42,6 @@
   - TBD
   
 <h3> Infrastructure projects </h3>
-
-- <b>Coursera </b>
-  - TBD
-
-<h2>🌱 Software Learning:</h2>
-
-<h3>TryHackMe</h3>
-  
-- <b>CompTIA Pentest+ (Learning Path)</b>
-  - TBD
-
-- <b>SOC Analyst (Learning Path)</b>
-  - TBD
-
-<h3>Salesforce.com Trailhead </h3>
-
-- <b>Salesforce.com </b>
-  - [Badge Training Profile](https://www.salesforce.com/trailblazer/t4xico1lgwisvygeaw)
-
-<h3>Microsoft Learn</h3>
-
-- <b>Microsoft Learn </b>
-  - TBD
-
-<h3>AWS Training </h3>
-
-- <b>AWS Training </b>
-  - TBD
-   
-<h3>LinkedIn Learning </h3>
-
-- <b>LinkedIn Learning </b>
-  - TBD
-  
-<h3>Coursera </h3>
 
 - <b>Coursera </b>
   - TBD
